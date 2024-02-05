@@ -1,16 +1,18 @@
-# Salaries-Data-Project
+# Salary Insights Project
 
-This project takes a excel spreadsheet of multiple different jobs and their salaries, and visualizes the data.
+Explore salary data from Kaggle, sourced from Levels.fyi, visualized using Python. This project employs key Python libraries, including Matplotlib, Pandas, and NumPy, to derive meaningful insights.
 
-By using our excel data, I managed to sort the data into data frames that would answer these questions when plotted on a graph.
+## Key Features
+- **Matplotlib, Pandas, and NumPy:** Leveraging these Python libraries for efficient data visualization and analysis.
 
-The python features used in the project were: matplotlib, pandas and numpy.
+## Project Overview
+Utilizing data from an Excel spreadsheet, the project organizes information into data frames, unraveling insights that address specific questions when represented graphically.
 
-A few questions that are answered in the code are:
-1. When sorting by career, what are the differences in salaries?
-2. What are the differences between companies and their given salaries for software engineers?
-3. For software engineers and data scientists, what is the correlation between the amount of years of experience you have and your salary?
-4. What locations pay data scientists the most?
+## Personal Inquiry
+**Is there a direct correlation between Work Experience and Compensation for Software Engineers?** 
 
-For the Individual part of this assignment, I wanted to ask this question:
-What is the correlation between how many years you spend working for a company and your compensation for a software engineer?
+## Questions Explored
+1. **Career Sorting:** Investigate salary differences when sorting by career.
+2. **Company Comparisons:** Analyze variations in salaries for software engineers among different companies.
+3. **Experience and Compensation:** Examine the correlation between years of experience and compensation for software engineers and data scientists.
+4. **Top-Paying Locations:** Identify locations that offer the highest salaries for data scientists.
