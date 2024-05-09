@@ -1,6 +1,6 @@
 # Salary Insights Project
 
-Explore salary data from Kaggle, sourced from Levels.fyi, visualized using Python. This project employs key Python libraries, including Matplotlib, Pandas, and NumPy, to derive meaningful insights.
+Explore salary data from Kaggle, sourced from Levels.fyi, visualized using Python. This project utilizes key Python libraries, including Matplotlib, Pandas, and NumPy, to derive meaningful insights.
 
 ## Key Features
 - **Matplotlib, Pandas, and NumPy:** Leveraging these Python libraries for efficient data visualization and analysis.
